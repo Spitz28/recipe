@@ -1,0 +1,46 @@
+body {
+	background-color: #D4D4D4;
+}
+
+h1{
+	font-family: Arial;
+	font-size: 60px;
+	color: #FFFFFF; /* White */
+	position: absolute;
+	bottom: 430px;
+	left: 870px;
+
+}
+
+h3{
+	font-family: arial;
+	font-size: 40px;
+}
+
+table{
+	border-style: solid;
+	border-color: #650000; /* red */
+	position: absolute;
+	left: 10px;
+	bottom: 200px;
+	text-align: center;
+	font-size: 22px;
+}
+
+.image1{
+	background-color: #650000;
+}
+
+.all_images{
+	position: absolute;
+	left: 50px;
+	top: 600px;
+}
+
+.all_text{
+	font-size: 22px;
+	position: absolute;
+	left: 400px;
+	top: 600px;
+}
+
